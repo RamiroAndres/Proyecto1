@@ -11,6 +11,7 @@ ModelImporter:
     100010: Computador
     100012: Lenovo
     100014: Line001
+    100016: Computador 1
     400000: Boton1
     400002: Boton2
     400004: Botono3
@@ -19,6 +20,7 @@ ModelImporter:
     400010: Computador
     400012: Lenovo
     400014: Line001
+    400016: Computador 1
     2300000: Boton1
     2300002: Boton2
     2300004: Botono3
@@ -26,6 +28,7 @@ ModelImporter:
     2300008: Computador
     2300010: Lenovo
     2300012: Line001
+    2300014: Computador 1
     3300000: Boton1
     3300002: Boton2
     3300004: Botono3
@@ -33,6 +36,7 @@ ModelImporter:
     3300008: Computador
     3300010: Lenovo
     3300012: Line001
+    3300014: Computador 1
     4300000: Boton1
     4300002: Boton2
     4300004: Botono3
